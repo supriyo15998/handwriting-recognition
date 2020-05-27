@@ -1,0 +1,19 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+#canvas {
+	border: 2px solid black;
+}
+.git {
+	transition: 1s;
+	background-color: black;
+	/*background-color: #1aa3ff;*/
+	color: white;
+}
+.git:hover {
+	transition: 1s;
+	background-color: white;
+	color: black;
+}
